@@ -1,6 +1,6 @@
 # 🧠 Project MindOS — The Operating System for a Synthetic Brain
 
-> “He designed an operating system that thinks.”
+> “An operating system that thinks.”
 
 ---
 
@@ -56,7 +56,7 @@ All modules stopped. MindOS offline.
 
 Run the live interactive simulation below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devansh-29-glitch/MindOS/blob/main/MindOS_Colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/devansh-29-glitch/mindos/blob/main/MindOS_Colab.ipynb)
 
 *(Runs a lightweight version of MindOS entirely in Colab — watch cognition unfold in real time.)*
 
@@ -105,6 +105,7 @@ Guided by research on **Bayesian brain theory**, **predictive processing**, and 
 > “An operating system for thought — running entirely inside Python.”
 
 ---
+
 
 
 

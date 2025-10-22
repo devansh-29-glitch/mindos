@@ -1,0 +1,5 @@
+{
+  "heartbeat_interval": 1.5,
+  "memory_buffer": 15,
+  "log_detail": true
+}

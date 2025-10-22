@@ -1,0 +1,64 @@
+{
+  "memory_trace": [
+    {
+      "stimulus": "light",
+      "emotion": "bored"
+    },
+    {
+      "stimulus": "light",
+      "emotion": "curious"
+    },
+    {
+      "stimulus": "light",
+      "emotion": "bored"
+    },
+    {
+      "stimulus": "motion",
+      "emotion": "bored"
+    },
+    {
+      "stimulus": "light",
+      "emotion": "bored"
+    },
+    {
+      "stimulus": "light",
+      "emotion": "curious"
+    },
+    {
+      "stimulus": "motion",
+      "emotion": "focused"
+    },
+    {
+      "stimulus": "motion",
+      "emotion": "curious"
+    },
+    {
+      "stimulus": "sound",
+      "emotion": "focused"
+    },
+    {
+      "stimulus": "light",
+      "emotion": "curious"
+    },
+    {
+      "stimulus": "motion",
+      "emotion": "focused"
+    },
+    {
+      "stimulus": "light",
+      "emotion": "curious"
+    },
+    {
+      "stimulus": "sound",
+      "emotion": "focused"
+    },
+    {
+      "stimulus": "sound",
+      "emotion": "focused"
+    },
+    {
+      "stimulus": "motion",
+      "emotion": "focused"
+    }
+  ]
+}

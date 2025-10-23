@@ -21,13 +21,13 @@ class BaseModule(threading.Thread):
         self.name = name
         self.bus = bus
 
-        # ✅ renamed from _stop to _stop_event (fixes TypeError)
+       
         self._stop_event = threading.Event()
 
         self._inboxes: Dict[str, Queue] = {}
         self._last_heartbeat = 0.0
 
-        # Subscribe to topics
+        # topic subsciotion ke liye
         for t in self.SUBSCRIPTIONS:
             self._inboxes[t] = self.bus.subscribe(t)
 
@@ -58,7 +58,7 @@ class BaseModule(threading.Thread):
                 self.publish(topics.TELEMETRY_HEARTBEAT, {"module": self.name, "ts": now})
                 self._last_heartbeat = now
 
-            # Handle messages from subscribed topics
+            
             for topic, q in self._inboxes.items():
                 try:
                     msg = q.get_nowait()
@@ -66,7 +66,7 @@ class BaseModule(threading.Thread):
                 except Empty:
                     pass
 
-            # Background loop
+            # Background loop ke liye
             self.loop()
             # optional: small pulse animation
             if random.random() < 0.01:

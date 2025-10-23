@@ -1,4 +1,4 @@
-# 🧠 Project MindOS — The Operating System for a Synthetic Brain
+# 🧠 Project MindOS - The Operating System for a Synthetic Brain
 
 > “An operating system that thinks.”
 
@@ -6,11 +6,11 @@
 
 ## 🌌 Overview
 
-MindOS is a **synthetic cognitive framework** — a system that runs modules like *Perception*, *Memory*, *Emotion*, *Reasoning*, and *Action* as concurrent threads on a shared **Neural Bus**.  
-Each process continuously communicates through predictive feedback and error correction — mirroring how the human brain maintains awareness and decision-making.
+MindOS is a **synthetic cognitive framework**, a system that runs modules like *Perception*, *Memory*, *Emotion*, *Reasoning*, and *Action* as concurrent threads on a shared **Neural Bus**.  
+Each process continuously communicates through predictive feedback and error correction, mirroring how the human brain maintains awareness and decision-making.
 
 This project isn’t trained on data.  
-It’s built on **architecture and theory** — inspired by *predictive coding* and *Bayesian brain models*.  
+It’s built on **architecture and theory** :- inspired by *predictive coding* and *Bayesian brain models*.  
 The system literally “thinks” by design.
 
 ---
@@ -77,8 +77,8 @@ Run the live interactive simulation below:
 MindOS draws on modern cognitive neuroscience:
 
 - **Predictive Coding:** Each module predicts future inputs, communicating via feedback and error signals.  
-- **Distributed Cognition:** Threads act like cortical regions — asynchronous yet cooperative.  
-- **Emergent Behavior:** No external data — the cognition arises from internal architecture.
+- **Distributed Cognition:** Threads act like cortical regions; asynchronous yet cooperative.  
+- **Emergent Behavior:** No external data :- the cognition arises from internal architecture.
 
 Together, these principles model how a mind could emerge from the structure of computation itself.
 
@@ -102,9 +102,10 @@ The result? A synthetic OS where thoughts, feelings, and behaviors are all activ
 Developed by **Devansh Sharma**  
 Guided by research on **Bayesian brain theory**, **predictive processing**, and **synthetic cognition**.
 
-> “An operating system for thought — running entirely inside Python.”
+> “An operating system for thought, running entirely inside Python.”
 
 ---
+
 
 
 

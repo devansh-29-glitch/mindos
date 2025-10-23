@@ -3,19 +3,19 @@ KERNEL_TICK = "kernel.tick"
 TELEMETRY_HEARTBEAT = "telemetry.heartbeat"
 TELEMETRY_EVENT = "telemetry.event"
 
-# perception → memory / reasoning
+# perception to memory / reasoning
 SENSORY_SAMPLE = "perception.sample"
 
-# memory → reasoning
+# memory to reasoning
 MEMORY_RECALL = "memory.recall"
 
-# emotion → reasoning / action
+# emotion to reasoning / action
 EMOTION_STATE = "emotion.state"
 
-# reasoning → action
+# reasoning to action
 INTENT_PLAN = "reasoning.intent"
 
-# action → telemetry
+# action to telemetry
 ACTION_EXECUTED = "action.executed"
 SENSORY_INPUT = "sensory_input"
 MEMORY_UPDATED = "memory_updated"

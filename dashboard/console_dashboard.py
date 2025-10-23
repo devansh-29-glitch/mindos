@@ -1,4 +1,4 @@
-# dashboard/console_dashboard.py
+# dashboard ka console_dashboard.py wala code
 import time
 from threading import Thread
 from rich.live import Live

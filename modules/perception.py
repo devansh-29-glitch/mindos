@@ -9,6 +9,6 @@ class Perception(BaseModule):
         super().__init__(bus, name)
 
     def loop(self):
-        # Emit sensory data
+        # sensory data spit karega
         sensory_data = random.choice(["light", "sound", "motion"])
         self.publish(topics.SENSORY_INPUT, {"stimulus": sensory_data})
